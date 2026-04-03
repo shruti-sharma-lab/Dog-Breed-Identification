@@ -10,6 +10,10 @@ The model is trained on a dataset of dog images and uses computer vision techniq
 
 ---
 
+## Model Files: https://drive.google.com/drive/folders/1I8uPXsMIBwTfW_T9eySiVVfuJwINC5FS
+
+---
+
 ##  Features
 
 *  Predicts dog breed from uploaded image
